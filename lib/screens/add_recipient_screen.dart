@@ -40,7 +40,7 @@ class _AddRecipientScreenState extends State<AddRecipientScreen> {
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
-                        color: Color.fromARGB(255, 102, 139, 252),
+                        color: Color.fromARGB(255, 96, 77, 152),
                       ),
                     ),
                     Gap(8),
@@ -49,7 +49,7 @@ class _AddRecipientScreenState extends State<AddRecipientScreen> {
                       decoration: InputDecoration(
                         hintText: "Enter recipient's name",
                         hintStyle: TextStyle(
-                            color: const Color.fromARGB(255, 125, 175, 193)),
+                            color: const Color.fromARGB(255, 146, 129, 181)),
                         filled: true,
                         fillColor: Color(0xFFF1F1F1), // Light Grey
                         border: OutlineInputBorder(
@@ -66,7 +66,7 @@ class _AddRecipientScreenState extends State<AddRecipientScreen> {
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
-                        color: Color.fromARGB(255, 102, 139, 252),
+                        color: Color.fromARGB(255, 96, 77, 152),
                       ),
                     ),
                     Gap(8),
@@ -75,7 +75,7 @@ class _AddRecipientScreenState extends State<AddRecipientScreen> {
                       decoration: InputDecoration(
                         hintText: "Enter relationship",
                         hintStyle: TextStyle(
-                            color: const Color.fromARGB(255, 125, 175, 193)),
+                            color: const Color.fromARGB(255, 146, 129, 181)),
                         filled: true,
                         fillColor: Color(0xFFF1F1F1),
                         border: OutlineInputBorder(
@@ -92,7 +92,7 @@ class _AddRecipientScreenState extends State<AddRecipientScreen> {
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
-                        color: Color.fromARGB(255, 102, 139, 252),
+                        color: Color.fromARGB(255, 96, 77, 152),
                       ),
                     ),
                     Gap(8),
@@ -102,7 +102,7 @@ class _AddRecipientScreenState extends State<AddRecipientScreen> {
                       decoration: InputDecoration(
                         hintText: "Enter budget",
                         hintStyle: TextStyle(
-                            color: const Color.fromARGB(255, 125, 175, 193)),
+                            color: const Color.fromARGB(255, 146, 129, 181)),
                         filled: true,
                         fillColor: Color(0xFFF1F1F1),
                         border: OutlineInputBorder(
